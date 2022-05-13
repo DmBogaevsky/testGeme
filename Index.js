@@ -142,8 +142,8 @@ class IndexedMap {
     }
 }
 
-// let myArray = new IndexedMap();
-// myArray.set('name', 'John');
-// myArray.set('name', 'Ron');
-// console.log(myArray)
-// console.log(myArray.get('name'));
+// let myCollection = new IndexedMap();
+// myCollection.set('name', 'John');
+// myCollection.set('name', 'Ron');
+// console.log(myCollection)
+// console.log(myCollection.get('name'));
