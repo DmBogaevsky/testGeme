@@ -1,3 +1,4 @@
+//-------------------task 1
 //-------------------2D
 easeLinear = (t, b, c, d) => c * t / d + b;
 
@@ -92,7 +93,7 @@ const dist = { x: to3d.x - from3d.x, y: to3d.y - from3d.y, z: to3d.z - from3d.z 
 // console.log(calculatePosition3D(allTime, fps3d, from3d, dist, easeOutBack3D));
 
 
-
+//--------------task 2
 class IndexedMap {
     constructor() {}
     keyValuePairs = [];
